@@ -7,7 +7,7 @@ The nRF Connect for Android application requires Android version 4.3 or later an
 <a href='https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp'><img alt='Get it on Google Play' height='80' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 
 > [!IMPORTANT]
-> The **source code** of nRF Connect is not available. This repo proveds only documentation and Issue tracker.
+> The **source code** of nRF Connect is not available. This repo provides only documentation and Issue tracker.
 
 ## Features
 
